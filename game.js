@@ -1,6 +1,6 @@
 // SUBTE DUEL — Platanus Hack 26, Buenos Aires Edition.
 // Light cycles temáticos con las seis líneas del subte porteño.
-// 1P vs CPU o 2P local.
+// 1P vs CPU o 2P local. Release v2 (preview).
 
 const W = 800;
 const H = 600;
