@@ -1,5 +1,5 @@
 {
-  "game_name": "<FILL THIS>",
-  "description": "<FILL THIS>",
+  "game_name": "Subte Duel",
+  "description": "Duelo de líneas del subte porteño estilo Light Cycles. Dejás estela, esquivás la del otro, el que choca pierde. 1P vs CPU o 2P local con las 6 líneas del subte de Buenos Aires: A, B, C, D, E y H.",
   "player_mode": "two_player"
 }
